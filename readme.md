@@ -1,6 +1,8 @@
 # Learning GitHub
 
-# Commands we've learnt.
+# Important Commands
+
+The following are commands:
 
 *mkdir __folder__name__, To make new folders from the terminal.
 *git init, to initialsize a git repository.
