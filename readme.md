@@ -10,3 +10,5 @@
 *git status
 *git add . --> to add everything
 *git checkout -b _branchName_, to add a new branch/ branch from the main branch.
+
+## main branch
